@@ -67,7 +67,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/aysecnkci/banking-risk-analysis-imbalanced-data.git
 ```
 
 2. Run the Jupyter notebook to preprocess the data, train the model, and evaluate it:
