@@ -35,7 +35,10 @@ This project focuses on customer risk prediction in a banking environment using 
 
 ## Dataset
 
-The dataset contains anonymized banking data with several features such as:
+The dataset used in this project can be downloaded from Kaggle:
+
+[Credit Card Approval Prediction Dataset](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
+
 
 - **Customer Demographics**: Age, gender, occupation, etc.
 - **Financial Indicators**: Credit history, balance, transaction patterns.
