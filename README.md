@@ -1,5 +1,8 @@
 # ML-Based Customer Risk Analysis for Banking: Achieving 80% Recall on Imbalanced Data
 
+![Banking Risk Analysis](https://media.licdn.com/dms/image/C5112AQHEBowdwyoQ6Q/article-cover_image-shrink_600_2000/0/1527685270469?e=2147483647&v=beta&t=gDlV5jAjvxgZTSouc6yohIXPiuaVYbWCqe8MNiITALE)
+
+
 ## Project Overview
 
 This project focuses on customer risk prediction in a banking environment using machine learning models. The primary challenge was dealing with imbalanced data where the minority class represents customers with a higher risk of default. Our goal was to achieve high recall, specifically targeting 80%, while maintaining acceptable levels of precision and accuracy.
